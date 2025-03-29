@@ -1,4 +1,4 @@
-package com.proactively
+package com.template.one
 
 import android.app.Application
 import com.facebook.react.PackageList
